@@ -1,5 +1,6 @@
 # DWGtoDXFConverter
-Pipeline code for converting of DWG file to DXF file by using Teigha Software
+Pipeline code for converting of DWG file to DXF file by using Teigha Software. Please ensure to install the Teigha software before using this codes.
+
 
 # Parameters
 TEIGHA_PATH: Location of .exe file
